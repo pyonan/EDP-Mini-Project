@@ -1,7 +1,3 @@
-This is a professionally formatted `README.md` version of your lab report. I have optimized the structure for GitHub/GitLab, using clear hierarchies, tables, and code blocks to make it highly scannable.
-
----
-
 # Skincare Products Analysis: EDP Lab Project Report
 **Exploratory Data Analysis using Python, Pandas, Matplotlib, Seaborn, NumPy & D-Tale**
 
